@@ -1,0 +1,2 @@
+C:\Projects\AsyncChannels\Debug\AsyncChannels.pdb
+C:\Projects\AsyncChannels\AsyncChannels\Debug\AsyncChannels.pdb

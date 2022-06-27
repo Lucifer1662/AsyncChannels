@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Projects\AsyncChannels\AsyncChannels\RemoteChannels.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Projects\AsyncChannels\include\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\Projects\AsyncChannels\LightBulb\main.cpp(46,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LightBulb.vcxproj -> C:\Projects\AsyncChannels\Debug\LightBulb.exe
